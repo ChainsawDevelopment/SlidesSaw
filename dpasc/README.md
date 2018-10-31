@@ -7,4 +7,4 @@ Slides for DPASC build with LaTeX, using Beamer.
 
 ## How to build
 
-`latexmk`
+Run `latexmk`. PDF will be generated in `/output/prez.pdf`.
