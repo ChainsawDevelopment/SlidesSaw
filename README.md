@@ -1,3 +1,3 @@
-# SlideSaw
+# SlidesSaw
 
 Slides repository for ChainsawDevelopment.
