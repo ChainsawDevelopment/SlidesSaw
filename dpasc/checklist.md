@@ -1,0 +1,15 @@
+- [ ] Uruchomiona maszynka na hyperv
+- [ ] 3 pulpety: prezka, mandro i novakov
+- [ ] Uruchomiiona prezka na fullscreen na pierwszym pulpecie
+- [ ] 2 instacje przegladarek zalogowane na 2 roznych userow (mandro i novakov), rodzielone na 2 pulpity
+- [ ] Otworzona konsola na katalogu ze zrodlami.
+- [ ] Jasny theme, czcionka w codzie i konsoli.
+- [ ] Rozdzielczosc 1024x768
+- [ ] Zbudowac PRZED!
+- [ ] Brak powiadomień z Arka
+- [ ] Wysuszona Śliwka
+- [ ] Omnisharp działa
+- [ ] Taski na Jirze na TODO
+- [ ] Brak Merge requestów z poprzednich prób
+- [ ] Internety (wifi / komórka)
+- [ ] Usunięte wszystkie zdalne i lokalne branche poza masterem
